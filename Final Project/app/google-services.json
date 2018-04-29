@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1051303775630",
+    "firebase_url": "https://iotfinalproject-cea51.firebaseio.com",
+    "project_id": "iotfinalproject-cea51",
+    "storage_bucket": "iotfinalproject-cea51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051303775630:android:6a24b4caa410d3c3",
+        "android_client_info": {
+          "package_name": "com.iotfinalproject.ryanbannon.iotfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051303775630-t4k2ubg032gcmf9puuunqp42g4todtnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iotfinalproject.ryanbannon.iotfinalproject",
+            "certificate_hash": "a5ca0c888d87585e1d64a44848ccd9d9a9eb3a56"
+          }
+        },
+        {
+          "client_id": "1051303775630-a5lpsei23ck0sd726or78uad2vvookvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4PXPSC4ohC6o_ua_owMy37gh8K8ebDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051303775630-a5lpsei23ck0sd726or78uad2vvookvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051303775630:android:c304a3e0e7a4b6d4",
+        "android_client_info": {
+          "package_name": "com.ryanbannon.iotfinalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051303775630-d7nve7k2n63acqqmvq2pfsj6dd3tgliq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ryanbannon.iotfinalproject",
+            "certificate_hash": "a5ca0c888d87585e1d64a44848ccd9d9a9eb3a56"
+          }
+        },
+        {
+          "client_id": "1051303775630-a5lpsei23ck0sd726or78uad2vvookvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4PXPSC4ohC6o_ua_owMy37gh8K8ebDA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051303775630-a5lpsei23ck0sd726or78uad2vvookvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
